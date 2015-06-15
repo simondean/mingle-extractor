@@ -1,0 +1,7 @@
+{
+  "servers": [
+    {
+      "ssl": true
+    }
+  ]
+}
