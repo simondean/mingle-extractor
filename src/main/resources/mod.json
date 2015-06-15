@@ -1,0 +1,15 @@
+{
+  "description":"Plugable dashboard framework",
+  "licenses": ["MIT"],
+  "author": "Simon Dean",
+
+  "developers": [],
+  "keywords": [
+    "mingle",
+    "extractor"
+  ],
+  "homepage": "https://github.com/tiler-project/tiler",
+
+  "auto-redeploy": true,
+  "includes": "org.simondean.vertx~vertx-async~0.1.6"
+}
